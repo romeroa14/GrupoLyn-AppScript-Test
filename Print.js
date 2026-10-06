@@ -1,0 +1,3 @@
+function printToPDF() {
+  ProsprScript.printToPDF()
+}

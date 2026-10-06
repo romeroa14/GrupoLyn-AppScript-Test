@@ -1,0 +1,18 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "ProsprScript",
+      "libraryId": "1KeQgiXH8pWkKLoAvfNvVFsUwhP8QFcidSZt-kNlQWhn9h-lCTJsntd-l",
+      "version": "39"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "Untitled Macro",
+      "functionName": "UntitledMacro"
+    }]
+  }
+}
